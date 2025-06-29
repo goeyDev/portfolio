@@ -15,7 +15,7 @@ export const projects: Project[] = [
         description: 'My personal portfolio website showcasing my projects and skills.',
         technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
         githubLink: 'https://github.com',
-        demoLink: 'https://demo.com',
+        demoLink: 'https://portfolio-umber-zeta-fwp2uibjjf.vercel.app',
         image: '/portfolio.svg',
       },
       {
