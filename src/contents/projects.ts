@@ -43,5 +43,13 @@ export const projects: Project[] = [
         demoLink: 'https://ecom1-umber.vercel.app/',
         image: '/ecom1.svg',
       },
+          {
+        title: 'Sleep Tracker',
+        description: 'Track your sleep, improve your health, and wake up feeling refreshed with SleepTracker.',
+        technologies: ['React', 'Nextjs','Drizzle-orm', 'Tailwind CSS'],
+        githubLink: 'https://github.com',
+        demoLink: 'https://sleep-tracker-nine.vercel.app/',
+        image: '/sleepTracker.svg',
+      },
      
   ];
