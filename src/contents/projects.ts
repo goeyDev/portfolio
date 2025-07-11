@@ -7,7 +7,7 @@ export const projects: Project[] = [
       "A full-stack e-commerce platform built with Next.js, TypeScript, and Tailwind CSS.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
     githubLink: "https://github.com",
-    demoLink: "https://ecommerce-store-pearl-chi.vercel.app/",
+    demoLink: "https://ped-ecom.vercel.app/",
     image: "/ecommerce.svg",
   },
   {
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     description: "Maintenance and Repair History of Vehicle .",
     technologies: ["React", "Nextjs", "Drizzle-orm", "Tailwind CSS"],
     githubLink: "https://github.com",
-    demoLink: "https://ecom1-umber.vercel.app/",
+    demoLink: "https://ecommerce-store-pearl-chi.vercel.app/",
     image: "/ecom1.svg",
   },
   {
