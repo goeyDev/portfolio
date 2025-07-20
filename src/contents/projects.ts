@@ -20,13 +20,13 @@ export const projects: Project[] = [
     image: "/portfolio.svg",
   },
   {
-    title: "Computer Repair Shop",
+    title: "Admin DashBoard",
     description:
       "A blogging platform with user authentication and markdown support.",
     technologies: ["React", "Nextjs", "Drizzle-orm", "Tailwind CSS"],
     githubLink: "https://github.com",
-    demoLink: "https://cr-shop-eight.vercel.app/tickets",
-    image: "/repairshop.svg",
+    demoLink: "https://admin-dashboard-ten-sage-76.vercel.app/",
+    image: "/adminDashboard.svg",
   },
   {
     title: "IncomeExpenses",
